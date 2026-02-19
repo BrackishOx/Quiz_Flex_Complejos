@@ -11,6 +11,6 @@ Donde:
 ## Compilación
 
 ```bash
-flex complex.l
-gcc lex.yy.c -o complex -lfl
-./complex entrada.txt
+flex complejos.l
+gcc lex.yy.c -o complejos -lfl
+./complejos entrada.txt
